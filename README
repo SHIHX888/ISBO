@@ -1,1 +1,3 @@
 
+Project Title: ISBO
+This project contains all the code for CEC benchmark tests, exploratory and developmental experiments, and UAV flight experiments. After downloading and extracting the files, simply run `main.m` in each respective folder to execute the code.
