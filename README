@@ -1,7 +1,0 @@
-
-Project Title: ISBO:An Improved Status-Based Optimization Framework for Global Optimization Problem and UAV Obstacle Avoidance Trajectory Planning
-Description: This project contains the experimental source code and data for the study titled "An Improved Status-Based Optimization Framework for Global Optimization Problem and UAV Obstacle Avoidance Trajectory Planning," provided for reference by researchers.
-Dataset Information: The datasets used in this study are IEEE CEC2017 and IEEE CEC2022; experiments were conducted on the 30-dimensional CEC2017 test set and the 10-dimensional and 20-dimensional CEC2022 sets, respectively.
-The source code for the two test sets is obtained from https://github.com/P-N-Suganthan/CEC2017 and https://www.mathworks.com/matlabcentral/fileexchange/157611-cec2022
-Code information: This code was developed using MATLAB R2023a. This includes benchmark experiments, exploratory and developmental analyses, and UAV trajectory planning experiments relevant to this study.
-Instructions: After cloning this project to your local machine, open it in MATLAB and run `main.m` within each project folder. No external dependencies need to be installed; all packages used in this study are part of MATLAB's built-in libraries.
